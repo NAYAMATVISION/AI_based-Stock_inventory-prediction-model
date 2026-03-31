@@ -1,3 +1,3 @@
 @echo off
-cd /d "c:\Users\Vanya Goyal\OneDrive\Desktop\Stock_Inventory_Model\frontend"
+cd /d "c:\Users\Nayamat\OneDrive\Desktop\Stock_Inventory_Model-main\frontend"
 npm start
